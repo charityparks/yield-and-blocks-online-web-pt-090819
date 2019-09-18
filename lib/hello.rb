@@ -1,7 +1,7 @@
-def hello_t (array)
-hello_t = [names]
-puts names
-end
+#def hello_t (array)
+#hello_t = [names]
+#puts names
+#end
 
 def hello_t(array)
   i = 0 
