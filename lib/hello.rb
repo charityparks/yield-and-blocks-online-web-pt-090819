@@ -1,6 +1,5 @@
-def hello_t
-
+def hello_t (array)
+hello_t = [names]
+puts names
 end
-
-# call your method here!
 
